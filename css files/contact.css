@@ -1,0 +1,45 @@
+body
+{
+	background-color: #EEE;
+	background-size: 100% 150%;
+	background-repeat: no-repeat;
+}
+
+#container
+{
+	width: 1000px;
+	height: auto;
+	border: 0;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+#header
+{
+	background-color: black;
+	color: white;
+	text-align: center;
+}
+
+a {
+
+	color: white;
+	text-decoration: none;
+
+}
+
+#link
+{
+	width: 300px;
+	
+	float: left;
+}
+
+#footer
+{
+	clear: both;
+	padding: 10px;
+	background-color: black;
+	color: white;
+	text-align: right;
+}

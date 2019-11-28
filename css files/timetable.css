@@ -1,0 +1,63 @@
+body
+{
+	background-color: #EEE;
+	background-size: 100% 150%;
+	background-repeat: no-repeat;
+}
+
+#container
+{
+	width: 1000px;
+	height: auto;
+	border: 0;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+#header
+{
+	background-color: black;
+	color: white;
+	text-align: center;
+}
+
+
+.table
+{
+	font-family: "Times New Roman", Times, serif;
+}
+
+
+a {
+
+	color: white;
+	text-decoration: none;
+
+}
+
+#link
+{
+	width: 300px;
+	
+	float: left;
+}
+#content
+{
+	background-color: grey;
+	background-size: 100% 100%;
+
+	width: 250px;
+	text-align: left;
+	font-family: "Times New Roman", Times, serif;
+	font-style: italic;
+
+}
+
+#footer
+{
+	clear: both;
+	padding: 10px;
+	background-color: black;
+	color: white;
+	text-align: right;
+}

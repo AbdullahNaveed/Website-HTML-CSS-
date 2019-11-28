@@ -1,0 +1,88 @@
+body
+{
+	background-color: #EEE;
+	background-size: 100% 150%;
+	background-repeat: no-repeat;
+}
+
+#image
+{
+    width: 50%;
+}
+
+#container
+{
+	width: 1000px;
+	height: auto;
+	border: 0;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+#header
+{
+	background-color: black;
+	color: white;
+	text-align: center;
+}
+
+h2 {
+
+	color: white;
+}
+
+.edu
+{
+	margin-right: 500px;
+	float: right;
+}
+
+.table
+{
+	margin-right: 0px;
+	float: right;
+	font-family: "Times New Roman", Times, serif;
+}
+
+#img2 
+{
+	float: right;
+	margin-top: 150px;
+	margin-right: 550px;
+	width: 400px;
+
+}
+
+a {
+
+	color: white;
+	text-decoration: none;
+
+}
+
+#link
+{
+	width: 300px;
+	
+	float: left;
+}
+#content
+{
+	background-color: grey;
+	background-size: 100% 100%;
+
+	width: 250px;
+	text-align: left;
+	font-family: "Times New Roman", Times, serif;
+	font-style: italic;
+
+}
+
+#footer
+{
+	clear: both;
+	padding: 10px;
+	background-color: black;
+	color: white;
+	text-align: right;
+}
