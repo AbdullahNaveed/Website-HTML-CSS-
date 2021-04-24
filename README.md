@@ -47,6 +47,6 @@ Distributed under the MIT License. See `LICENSE` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Abdullah Naveed - [@ansygames](https://sites.google.com/view/ansy-games/home) - artistflame@gmail.com
+Abdullah Naveed - [ANSY GAMES](https://sites.google.com/view/ansy-games/home) - artistflame@gmail.com
 
 Project Link: [https://github.com/AbdullahNaveed/Website-HTML-CSS-](https://github.com/AbdullahNaveed/Website-HTML-CSS-)
